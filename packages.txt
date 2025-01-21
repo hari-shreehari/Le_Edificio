@@ -1,0 +1,2 @@
+poppler-utils  # Required by pdf2image
+imagemagick    # Required by wand

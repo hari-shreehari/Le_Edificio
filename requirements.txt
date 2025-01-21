@@ -1,0 +1,9 @@
+opencv-python
+pdf2image
+wand
+Pillow
+bpy
+keras-ocr
+keras
+tensorflow==2.15.1
+pyinstaller
